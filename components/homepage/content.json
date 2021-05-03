@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_homepage_contents",
+  "info": {
+    "name": "content",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
